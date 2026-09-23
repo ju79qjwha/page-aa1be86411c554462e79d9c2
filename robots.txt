@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--4gqrns28d.org/sitemap.xml
